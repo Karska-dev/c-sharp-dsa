@@ -11,6 +11,8 @@ namespace TwoSum
             int[] inputArr = { 2,7,11,15};
             var result = TwoSum(inputArr, 9);
             Console.WriteLine($"Indexes of two to make 9 are: {result[0]} and {result[1]}");
+            Console.WriteLine($"Indexes of two to make 9 are: {result[0]} and {result[1]}");
+            Console.WriteLine($"Indexes of two to make 9 are: {result[0]} and {result[1]}");
         }
         static int[] TwoSum(int[] nums, int target)
         {
