@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.808.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{D128AC3E-7BE6-4A61-8426-DB38452C594B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{CE5FC4B1-7B1F-4DA5-8B54-AE07C0693627}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D128AC3E-7BE6-4A61-8426-DB38452C594B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D128AC3E-7BE6-4A61-8426-DB38452C594B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D128AC3E-7BE6-4A61-8426-DB38452C594B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D128AC3E-7BE6-4A61-8426-DB38452C594B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5FC4B1-7B1F-4DA5-8B54-AE07C0693627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5FC4B1-7B1F-4DA5-8B54-AE07C0693627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5FC4B1-7B1F-4DA5-8B54-AE07C0693627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5FC4B1-7B1F-4DA5-8B54-AE07C0693627}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4342EDBE-C412-413F-AF28-357E23968286}
+		SolutionGuid = {1878B45F-EDA2-4C47-89D8-C577E1533F72}
 	EndGlobalSection
 EndGlobal
