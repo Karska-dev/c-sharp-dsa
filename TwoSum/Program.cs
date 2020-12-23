@@ -10,10 +10,13 @@ namespace TwoSum
             
             int[] inputArr = { 3,3,6,15};
             int target = 9;
+
             var result = TwoSum(inputArr, target);
             //var result = BruteForce(inputArr, target);
-            Console.WriteLine($"Indexes of two to make {target} are: {result[0]} and {result[1]}");
+            if (result != null)
+                Console.WriteLine($"Indexes of two to make {target} are: {result[0]} and {result[1]}");
         }
+
         static int[] TwoSum(int[] nums, int target)
         {
             Dictionary<int, int> inputNums = new Dictionary<int, int>();
@@ -33,6 +36,7 @@ namespace TwoSum
             return null;
 
         }
+
         static int[] BruteForce(int[] nums, int target)
         {
             int[] result = new int[] { };
